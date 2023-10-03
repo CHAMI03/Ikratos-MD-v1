@@ -48,15 +48,15 @@ global.sdc = '-' //Fill it out using the Discord link, if there is one, just lea
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
+global.pdana = '714100998' //Nomor Danamu
+global.ppulsa = '714100998' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '68673045381' //Nomor Bot
-global.nomorown = '923470027813' //Nomor Owner
-global.namebot = 'Ikratos-MD-v1' //Nama Bot
-global.nameown = 'ᴀʜᴍᴀᴅ ᴀʟɪ🇵🇰' // Nama Owner
+global.nomorbot = '714100998' //Nomor Bot
+global.nomorown = '714100998' //Nomor Owner
+global.namebot = '🆀🆄🅴🅴🅽 🆃🅷🅰🆁🅰' //Nama Bot
+global.nameown = 'ᴿ᭄ 𝙲𝙷𝙰𝙼𝙸 ×፝֟͜×' // Nama Owner
 
 
 /*============== CHATGPT ==============*/
@@ -66,7 +66,7 @@ global.org = 'PASTE_YOUR_ORG_HERE'   // Get you Org-Key from 'https://platform.o
 /*============== STAFF ==============*/
 global.owner = [
   ['923470027813', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //don't change this name and number
-  ['19293514545', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', false] //Replace your name and number here
+  ['19293514545', 'ᴿ᭄ 𝙲𝙷𝙰𝙼𝙸 ×፝֟͜×', false] //Replace your name and number here
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = ['923470027813',''] //Don't replace this,If you want to add someone add any dev
@@ -105,10 +105,10 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ahmad Ali- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm = '「 ᴿ᭄ 𝙲𝙷𝙰𝙼𝙸 ×፝֟͜× 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘ᴿ᭄ 𝙲𝙷𝙰𝙼𝙸 ×፝֟͜×- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 global.wm3 = 'ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷'
-global.footerTXT = `ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +92 347 0027813`
+global.footerTXT = `ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: 714100998
 global.fig = `Follow me on instagram:\n\t\tinstagram.com/itx_ahmad.ali`
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
@@ -124,7 +124,7 @@ global.thumb2 = 'https://i.ibb.co/cc8jfkX/01.jpg'
 global.thumbbc = 'https://i.ibb.co/cc8jfkX/01.jpg' //For broadcast
 global.giflogo = 'https://telegra.ph/file/a46ab7fa39338b1f54d5a.mp4'
 global.thumblvlup = 'https://i.ibb.co/cc8jfkX/01.jpg'
-global.hwaifu = ['https://i.ibb.co/cc8jfkX/01.jpg']
+global.hwaifu = ['https://i.ibb.co/sRhWVYN/Queen-thara.jpg']
 
 /*============== FlamingText ===========*/
 global.flaaa = [
@@ -140,7 +140,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+92 347 0027813'
+global.phn = '714100998'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -180,7 +180,7 @@ global.htjava = '⫹⫺'    //hiasan Doang :v
 global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
-global.stickpack = 'x_ikratos_x'
+global.stickpack = 'ᴿ᭄ 𝙲𝙷𝙰𝙼𝙸 ×፝֟͜×'
 global.stickauth = `「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
 global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴋʀᴀᴛᴏs'
